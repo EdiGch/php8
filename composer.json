@@ -1,0 +1,17 @@
+{
+    "name": "lesson/php8",
+    "description": "Learning the new php release in version 8. Review of news, changes according to previous versions.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Grzegorz Charkiewicz",
+            "email": "charkiewicz.grzegorz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
